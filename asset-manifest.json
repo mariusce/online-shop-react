@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/online-shop-react/static/css/main.d1b05096.chunk.css",
+    "main.js": "/online-shop-react/static/js/main.a4edaf2e.chunk.js",
+    "main.js.map": "/online-shop-react/static/js/main.a4edaf2e.chunk.js.map",
+    "runtime-main.js": "/online-shop-react/static/js/runtime-main.03cdd17d.js",
+    "runtime-main.js.map": "/online-shop-react/static/js/runtime-main.03cdd17d.js.map",
+    "static/js/2.9a917579.chunk.js": "/online-shop-react/static/js/2.9a917579.chunk.js",
+    "static/js/2.9a917579.chunk.js.map": "/online-shop-react/static/js/2.9a917579.chunk.js.map",
+    "index.html": "/online-shop-react/index.html",
+    "precache-manifest.79a624fb6049e714d56cbf20be3aa548.js": "/online-shop-react/precache-manifest.79a624fb6049e714d56cbf20be3aa548.js",
+    "service-worker.js": "/online-shop-react/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/online-shop-react/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.9a917579.chunk.js.LICENSE.txt": "/online-shop-react/static/js/2.9a917579.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/online-shop-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03cdd17d.js",
+    "static/js/2.9a917579.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.a4edaf2e.chunk.js"
+  ]
+}
