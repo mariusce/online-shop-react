@@ -17,9 +17,7 @@ const CollectionPage = ({collection}) => {
                 <CollectionItem key={item.id} item={item}/>)
             }
         </div>
-        
     </div>
-
 )}
 
 const mapStateToProps = (state, ownProps) => ({
