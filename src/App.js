@@ -4,6 +4,7 @@ import { connect } from 'react-redux';
 import { createStructuredSelector } from 'reselect';
 
 import './App.css';
+import * as serviceWorker from './serviceWorker';
 
 import HomePage from './pages/homepage/homepage.component';
 import ShopPage from './pages/shop/shop.component';
@@ -32,6 +33,7 @@ const App = ({ checkUserSession, currentUser }) => {
   );
 }
 
+serviceWorker.register();
 
 const mapStateToProps = createStructuredSelector({
   currentUser : selectCurrentUser
